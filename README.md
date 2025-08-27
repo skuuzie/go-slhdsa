@@ -2,6 +2,8 @@
 
 Go language implementation of Stateless Hash-Based Digital Signature Standard based ([FIPS 205](https://csrc.nist.gov/pubs/fips/205/final))
 
+Demo: https://deeon-slhdsa.vercel.app/
+
 ---
 
 1. [Installation](#installation)
@@ -45,5 +47,3 @@ Check out other example that includes:
 2. Additional randomness usage
 3. Prehashing
 4. Compilation to WebAssembly
-
-Coming soon: static website for SLH-DSA operations backed by WASM module 😊
